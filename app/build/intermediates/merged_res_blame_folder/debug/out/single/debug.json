@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_access_points_content.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/access_points_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable-hdpi_ic_app.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable-hdpi/ic_app.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/raw_al.txt.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/raw/al.txt"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_info_location.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/info_location.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_signal_wifi_3_bar.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_signal_wifi_3_bar.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_wifi_5.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_wifi_5.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_filter_security.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/filter_security.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/raw_contributors.txt.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/raw/contributors.txt"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_wifi_4.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_wifi_4.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_channel_rating_best.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_rating_best.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_brightness_low.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_brightness_low.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_settings.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_info_faq.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/info_faq.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_splash_inset.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/splash_inset.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable-xhdpi_ic_app.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable-xhdpi/ic_app.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_main_toolbar.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_toolbar.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_wifi_unknown.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_wifi_unknown.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_signal_wifi_off.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_signal_wifi_off.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_close.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_lock_open.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_lock_open.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_info_throttling.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/info_throttling.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_lock_outline.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_lock_outline.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/raw_gpl.txt.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/raw/gpl.txt"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_lock.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_fast_forward.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_fast_forward.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_signal_wifi_1_bar.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_signal_wifi_1_bar.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_import_export.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_import_export.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_vendor_content.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/vendor_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_signal_wifi_0_bar.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_signal_wifi_0_bar.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_signal_wifi_2_bar.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_signal_wifi_2_bar.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable-xxxhdpi_ic_app.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable-xxxhdpi/ic_app.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_view_carousel.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_view_carousel.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_separator_line.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/separator_line.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_splash.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_splash.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_color_lens.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_color_lens.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_access_point_view_compact.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/access_point_view_compact.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_vendor_details.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/vendor_details.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_filter_ssid.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/filter_ssid.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_access_point_view_hide.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/access_point_view_hide.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_sort.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_sort.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_insert_chart.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_insert_chart.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_about_content.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/about_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_main_wifi_support.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_wifi_support.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_wifi_tethering.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_wifi_tethering.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_main_activity.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_network_wifi.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_network_wifi.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_pause.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_expand_less.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_expand_less.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_filter_popup.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/filter_popup.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_channel_rating_header.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_rating_header.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/raw_data.txt.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/raw/data.txt"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_info_permission.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/info_permission.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_signal_wifi_4_bar.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_signal_wifi_4_bar.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_lan.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_lan.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_main_connection.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_connection.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable-mdpi_ic_app.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable-mdpi/ic_app.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_main_navigation.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_navigation.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_filter_list.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_filter_list.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/xml_settings.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/xml/settings.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_channel_rating_content.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_rating_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_language.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_language.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable-xxhdpi_ic_app.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable-xxhdpi/ic_app.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_group.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_group.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_main_nodata.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_nodata.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_access_point_view_complete.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/access_point_view_complete.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_access_point_view_popup.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/access_point_view_popup.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/menu_optionmenu.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/menu/optionmenu.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_main_content.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_menu_selector.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/menu_selector.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_info_outline.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_info_outline.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_channel_available_content.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_available_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_wifi_6.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_wifi_6.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_channel_rating_details.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_rating_details.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_expand_more.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_expand_more.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_list.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_list.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_filter_wifi_band.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/filter_wifi_band.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_channel_available_details.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_available_details.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_wifi_legacy.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_wifi_legacy.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_check.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_location_on.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_location_on.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_leak_add.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_leak_add.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_filter_strength.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/filter_strength.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_play_arrow.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_play_arrow.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/drawable_ic_show_chart.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/drawable/ic_show_chart.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-merged_res-37:/layout_graph_content.xml.flat",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/graph_content.xml"
+    }
+]

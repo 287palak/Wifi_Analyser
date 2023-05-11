@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/main_nodata.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_nodata.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/filter_security.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/filter_security.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/filter_strength.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/filter_strength.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/info_throttling.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/info_throttling.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/vendor_details.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/vendor_details.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/filter_wifi_band.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/filter_wifi_band.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/access_point_view_popup.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/access_point_view_popup.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/channel_rating_header.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_rating_header.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/info_faq.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/info_faq.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/vendor_content.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/vendor_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/main_connection.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_connection.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/channel_rating_best.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_rating_best.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/main_content.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/main_activity.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/channel_available_details.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_available_details.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/access_point_view_compact.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/access_point_view_compact.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/main_navigation.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_navigation.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/about_content.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/about_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/main_wifi_support.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_wifi_support.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/graph_content.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/graph_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/channel_rating_details.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_rating_details.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/info_location.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/info_location.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/channel_rating_content.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_rating_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/main_toolbar.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/main_toolbar.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/info_permission.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/info_permission.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/access_points_content.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/access_points_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/channel_available_content.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/channel_available_content.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/filter_ssid.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/filter_ssid.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/access_point_view_complete.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/access_point_view_complete.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/separator_line.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/separator_line.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/filter_popup.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/filter_popup.xml"
+    },
+    {
+        "merged": "com.vrem.wifianalyzer.app-mergeDebugResources-36:/layout/access_point_view_hide.xml",
+        "source": "com.vrem.wifianalyzer.app-main-39:/layout/access_point_view_hide.xml"
+    }
+]
